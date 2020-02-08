@@ -86,16 +86,16 @@ a{
 	color: #A348A5;
 }
 .gdl-link-title{
-	color: #ffc70b !important;
+	color: #A348A5 !important;
 }
 a:hover{
-	color: #ffc70b;
+	color: #A348A5;
 }
 .footer-wrapper a:hover{
-	color: #ffc70b;
+	color: #A348A5;
 }
 .gdl-slider-title{
-	color: #ffc70b !important;
+	color: #A348A5 !important;
 }  
 .gdl-slider-caption, .nivo-caption{
 	color: #ffffff !important;
@@ -220,7 +220,7 @@ div.footer-wrapper div.custom-sidebar .recent-post-widget-thumbnail {
 	border-color: #ececec !important;
 }
 table th{
-	color: #ffc70b;
+	color: #A348A5;
 	background-color: #000000;
 }
 table, table tr, table tr td, table tr th{
@@ -306,7 +306,7 @@ ul.tabs li a.active {
 .navigation-wrapper .sf-menu a:focus, 
 .navigation-wrapper .sf-menu a:hover, 
 .navigation-wrapper .sf-menu a:active{
-	color: #ffc70b !important;
+	color: #A348A5 !important;
 }
 .navigation-wrapper .sf-menu ul .current-menu-item a {
 	color: #3d3d3d !important;
@@ -338,7 +338,7 @@ a.gdl-button{
 
 a.button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover,
 a.gdl-button:hover{
-	color: #ffc70b;
+	color: #A348A5;
 }
    
 /* Price Item
@@ -355,7 +355,7 @@ div.gdl-price-item .price-item.active .price-title{
 	color: #ffffff !important;
 }
 div.gdl-price-item .price-tag{
-	color: #ffc70b !important;
+	color: #A348A5 !important;
 }
 div.gdl-price-item .price-item.active .price-tag{
 		color: #ef7f2c !important;
