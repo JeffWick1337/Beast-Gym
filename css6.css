@@ -307,9 +307,6 @@ ul.tabs li a.active {
 .navigation-wrapper .sf-menu a:hover, 
 .navigation-wrapper .sf-menu a:active{
 	color: #ffc70b !important;
-} 
-.navigation-wrapper .sf-menu .current-menu-item a {
-	color: #ffc70b !important;
 }
 .navigation-wrapper .sf-menu ul .current-menu-item a {
 	color: #3d3d3d !important;
