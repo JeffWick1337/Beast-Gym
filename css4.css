@@ -1,0 +1,9 @@
+div.shortcode-dropcap.circle{
+	position: relative;
+	z-index: 1000;
+	behavior: url(http://fightg.com/wp/wp-content/themes/modernize/stylesheet/ie-fix/PIE.php);
+}
+
+label img {
+  behavior: url(http://fightg.com/wp/wp-content/themes/modernize/stylesheet/ie-fix/label_img.htc);
+}
